@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Nice and easysolution
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1. Explain how to use starter kit
 
 ## Getting started
 
